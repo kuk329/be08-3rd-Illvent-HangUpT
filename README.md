@@ -107,13 +107,16 @@
 
 ## 📑 요구사항 명세서
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/13E_mtIu6xKc1JoF_HQh8CLfdxFWL-oyIPik1oPiHtm0/edit?gid=292227401#gid=292227401)
+![image](https://github.com/user-attachments/assets/6e0ac0ff-09da-4103-86ac-60214679fdf4)
+
+
 
 <br>
 
 ## 📑 시스템 아키텍처
-[시스템 아키텍처]
+![image](https://github.com/user-attachments/assets/bdf26a28-0695-44bc-8ebd-a24de35068dd)
 
-![HangUpT](https://github.com/user-attachments/assets/c3329d2d-3054-463c-ad95-92ffacb391a1)
+
 
 <br>
 
@@ -134,19 +137,35 @@
 <br>
 
 ## 📄 API 명세서
-[API 명세서]()
+[API 명세서](https://docs.google.com/spreadsheets/d/13E_mtIu6xKc1JoF_HQh8CLfdxFWL-oyIPik1oPiHtm0/edit?gid=1880524329#gid=1880524329)
+![image](https://github.com/user-attachments/assets/6fc0d30f-4a6c-448c-a18f-106c1a77adaf)
+![image](https://github.com/user-attachments/assets/d12a9c6e-a974-4d27-b15f-90ee510c56e8)
+![image](https://github.com/user-attachments/assets/7aafaa78-60b1-4827-b455-f15202b1356e)
+![image](https://github.com/user-attachments/assets/4d16f8ee-eceb-4300-91b6-e129db3dd45a)
+![image](https://github.com/user-attachments/assets/3667f5a9-c0d2-4c75-9ae6-807d7be608c8)
 
 <br>
 <br>
 
-## 📐 화면 설계서
+## 📺 화면 설계서
 [Figma 보러가기](https://www.figma.com/design/fairCGNOJ8JbOFODmVtExk/ILLVENT?node-id=0-1&t=7ETNDkGSz4G9M7R4-0)
 
 <br>
 <br>
 
 
-## 화면 정의서
+## 🩰 Story Board
+[StoryBoard 보러가기](https://docs.google.com/spreadsheets/d/13E_mtIu6xKc1JoF_HQh8CLfdxFWL-oyIPik1oPiHtm0/edit?gid=919152135#gid=919152135)
+![image](https://github.com/user-attachments/assets/9aabf2c8-e7eb-4aaa-8e7b-7a32ee6e2674)
+![image](https://github.com/user-attachments/assets/d8b8d486-8103-4eba-a2b8-c5a1c0c64601)
+![image](https://github.com/user-attachments/assets/1ded07f1-8404-461f-b22d-ba62913fb203)
+![image](https://github.com/user-attachments/assets/7b116ca8-d8d2-4bf4-882b-d8d5d0f3715a)
+![image](https://github.com/user-attachments/assets/950367ca-6e2a-49e0-ae87-fc0c05a0952c)
+![image](https://github.com/user-attachments/assets/12d66094-1015-4998-bfd6-7c8464b96148)
+![image](https://github.com/user-attachments/assets/85176c04-16af-4bae-8817-9ca9e7c57120)
+![image](https://github.com/user-attachments/assets/26b58e5c-14c1-49c2-b53f-108c6abc7734)
+![image](https://github.com/user-attachments/assets/4fee4688-d689-415a-b679-28ba0eee358d)
+![image](https://github.com/user-attachments/assets/d7e781f0-2b90-488a-a15c-1cb6c92ef345)
 
 <br>
 <br>
@@ -163,6 +182,9 @@
 
 ## 📅 WBS
 [WBS](https://docs.google.com/spreadsheets/d/13E_mtIu6xKc1JoF_HQh8CLfdxFWL-oyIPik1oPiHtm0/edit?gid=1108790350#gid=1108790350)
+
+![image](https://github.com/user-attachments/assets/be1acd50-0ee8-48b7-b1b1-bb00f5ea4802)
+
 
 <br>
 
@@ -190,12 +212,8 @@
   <summary>마이페이지</summary>
   <br>
   <details>
-    <summary>내 정보</summary>
-    <img src="">
-  </details>
-  <details>
-    <summary>내 게시물</summary>
-    <img src="">
+    <summary>내 관심 행사, 내 게시물, 내 정보</summary>
+    <img src="https://github.com/user-attachments/assets/9f2e71c8-a13a-4d40-8e92-d49b85430dbe">
   </details>
 </details>
   
@@ -254,12 +272,24 @@
   <summary>게시판</summary>
   <br>
   <details>
-    <summary></summary>
-    <img src="">
+    <summary>게시글 작성</summary>
+    <img src="https://github.com/user-attachments/assets/beb10ef5-8969-4846-bcc3-345222353454">
   </details>
   <details>
-    <summary></summary>
-    <img src="">
+    <summary>정렬 기능</summary>
+    <img src="https://github.com/user-attachments/assets/c75e4ef7-6c29-43cf-9153-e5e62cd23507">
+  </details>
+  <details>
+    <summary>댓글 작성 및 조회수, 좋아요 기능</summary>
+    <img src="https://github.com/user-attachments/assets/4ccf5682-e0e5-482f-b836-81e186d4f0a1">
+  </details>
+  <details>
+    <summary>지역 필터링</summary>
+    <img src="https://github.com/user-attachments/assets/6533d3d0-1caf-427f-adbf-028e5d8dbf94">
+  </details>
+  <details>
+    <summary>게시글 삭제</summary>
+    <img src="https://github.com/user-attachments/assets/fb97e6fa-071e-45b0-8645-6e4ea99b18f7">
   </details>
 </details>
 
@@ -270,15 +300,13 @@
 
 
 ## 🐻 한줄 회고록
-|&nbsp;&nbsp;팀&nbsp;원&nbsp;&nbsp;&nbsp;|회고|
-|:---:|---|
-|👑김은경||
-|🍙김태영||
-|🐶박성준||
-|🍉이주희||
-|🧁정진주||
-|🐧조혜인||
+|&nbsp;&nbsp;&nbsp;&nbsp;팀&nbsp;원&nbsp;&nbsp;&nbsp;&nbsp;|회고|
+|:----:|----|
+|👑김은경|<br>짧은 기간 안에 완성을 하느라 힘든점도 많았지만, 더 빨리 성장할 수 있었던것 같습니다. 이번 프로젝트에서는 Vue로 프론트 개발 뿐만아니라 저번에 배운 스프링 프레임워크를 사용해 백엔드까지 구현을 하면서 전체적인 웹 개발 흐름을 이해할 수 있었습니다.<br>&nbsp;|
+|🍙김태영|<br>처음 해보는 프론트 프로젝트라서 낯설었지만, 백엔드까지 함께 사용하여서, 프로젝트의 전반적인 구조를 알 수 있었던 경험이었습니다<br>&nbsp;|
+|🐶박성준|<br>쿠키왕과 함꼐한 프론트 프로젝트. 프론트와 백엔드의 통신을 이해할 수 있는 뜻깊은 프로젝트였습니다. 다들 고생하셨어요<br>&nbsp;|
+|🍉이주희|<br>Vue.js를 사용해 Kakao Map 기능을 구현하며, 아키텍처 설계와 기능 개발 로직에 대해 깊이 고민할 수 있는 뜻깊은 시간을 보냈습니다. 함께 프로젝트를 진행한 팀원들 모두 멋졌고, 그들의 수고와 지원에 깊이 감사드립니다.<br>&nbsp;|
+|🧁정진주|<br>짧은 기간이었지만 알찬 경험이었습니다! 고생한 팀원들에게 감사합니다 :><br>&nbsp;|
+|🐧조혜인|<br>다들 너무 고생하셨습니다. 인상깊은건 수줍음 많은 팀장님이 쿠키를 주실때였습니다. 감사했습니다<br>&nbsp;|
 
 <br>
-
-
